@@ -10,7 +10,6 @@ This repository contains solutions for multiple assignments focused on natural l
 2. [Assignment 2 & 3: Modified COALS Algorithm](#assignment-2--3-modified-coals-algorithm)
 3. [Assignment 4 & 5: Skipgram Model](#assignment-4--5-skipgram-model)
 4. [Assignment 6, 7 & 8: Abstract Generation](#assignment-6-7--8-abstract-generation)
-5. [Usage Instructions](#usage-instructions)
 
 ---
 
@@ -110,20 +109,3 @@ This repository contains solutions for multiple assignments focused on natural l
 
 ---
 
-## Usage Instructions
-
-#### File Structure:
-
-```plaintext
-├── data/
-│   ├── covid19_dataset.json
-├── src/
-│   ├── assignment1_text_preprocessing.py
-│   ├── assignment2_3_coals.py
-│   ├── assignment4_5_skipgram.py
-│   ├── assignment6_7_8_abstract_generation.py
-├── results/
-│   ├── tokens_vs_vocab_plot.png
-│   ├── epochs_vs_error.png
-│   ├── coals_visualization.png
-├── README.md
